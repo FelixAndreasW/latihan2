@@ -31,4 +31,14 @@ void main(){
   // List data = ['Deny', 30, 'Sistem Informasi'];
   // print("Nama saya ${data[0]}, umur ${data[1]}, prodi ${data[2]}");
 
+  // Set mhs = {'Dona', 'Martin', 'Gary', 'Windy', 'Gary', 'Windy'};
+  // print("Nama saya ${mhs.elementAt(2)}");
+
+  //list => array index angka data[0]
+  //map => array index bebas
+
+  // Map mhs = {"nama":"Agus", "umur":30, "prodi":"SI"};
+  // print("Nama saya ${'nama'}, umur ${'umur'}, prodi ${'prodi'}");
+
+  
   } 
